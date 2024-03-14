@@ -1,0 +1,27 @@
+*{
+    font-family: Ubunutu, Verdana;
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+.header{
+    display: flex;
+    background-color:#1B2631;
+    color: #dee4a7;
+    padding: 20px;
+    justify-content: center;
+}
+
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+ul{
+    display: flex;
+    gap: 30px;
+}
